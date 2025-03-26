@@ -1,7 +1,7 @@
 #include <student.h>
-int biggest(int number1, int number2) {
+int reverse(int number1) {
   int b;
-  // TODO: escreva uma expressao retornar o maior valor absoluto entre number1 e number2.
-          
+  // TODO: escreva uma expressao para retornar os digitos em ordem invertidas de number1.
+  
   return b;
 }
