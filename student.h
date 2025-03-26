@@ -4,6 +4,6 @@
 #ifndef SUM_GUARD_H
 #define SUM_GUARD_H
 
-int biggest(int number1, int number2);
+int reverse(int number1);
 
 #endif
