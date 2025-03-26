@@ -1,17 +1,18 @@
-# Biggest number-exercise-template
-Biggest number Exercise Template
+# Reverse number exercise
+Reverse number Exercise
 
 # Identificação
-Nome: <Seu nome>
+Nome: <Seu Nome?>
 Matrícula: <Sua Matrícula>
 
 # Instruções
-Neste exercício você deve escrever uma função que recebe dois valores inteiros e informa qual dos dois possui o maior valor absoluto.
+Neste exercício você deve escrever uma função que recebe um valor inteiro positivo e devolve os seus dígitos em ordem contrária.
 
 1. Altere este Readme para conter o seu nome e matrícula.
 2. Modifique a função dentro do arquivo student.c
 
 # Exemplos
-Quando recebe -30 e 10, sua função deve retornar -30.
-Quando recebe -30 e 50, sua função deve retornar 50.
+1. Quando recebe 123456, sua função deve retornar 654321.
+2. Quando recebe 50, sua função deve retornar 5.
+3. Quando recebe 503, sua função deve retornar 305.
 
