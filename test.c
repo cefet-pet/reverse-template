@@ -3,9 +3,9 @@
 
 int main(void)
 {
-  int number1, number2, total;
-  scanf("%d %d", &number1, &number2);
-  total = biggest(number1, number2);
-  printf("%d\n", total);
+  int number1, reverseNumber;
+  scanf("%d", &number1);
+  total = reverse(number1);
+  printf("%d\n", reverseNumber);
   return 0;
 }
